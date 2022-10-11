@@ -1,10 +1,8 @@
 # FILE STORE BOT 
 
-
-
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 Using Of This Bot Can Avoid Telegram Movies Copyright , Channel Ban😉
- 
+
 ### Features
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
@@ -16,15 +14,7 @@ Using Of This Bot Can Avoid Telegram Movies Copyright , Channel Ban😉
 - Add the bot to Database Channel with all permission
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
 
-#### Deploy on Heroku
-**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
-
-**Check Out Working Of Bot [SIMBA](https://t.me/+08V0sYUR5qJiMDI1)**
-
-
-#### Deploy in your VPS
 ````bash
 git clone https://github.com/TG-V4MP1R3/File-Store-Bot
 cd  File-Store-Bot
